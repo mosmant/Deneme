@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Deneme_03 {
+public class Factorial {
 
 	public static void main(String[] args) {
-		// Interview Question Kullanicidan 50'�'den kucuk bir sayi isteyin ve girilen
+		// Interview Question Kullanicidan 10'den kucuk bir sayi isteyin ve girilen
 		// sayinin faktoryelini bulun. (5!=5*4*3*2*1)
 		
 		Scanner scan =new Scanner (System.in);
